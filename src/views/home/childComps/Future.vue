@@ -13,4 +13,7 @@ export default {
 </script>
 
 <style>
+.future img {
+  width: 100%;
+}
 </style>
